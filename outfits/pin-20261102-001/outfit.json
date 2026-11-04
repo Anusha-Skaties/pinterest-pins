@@ -1,0 +1,24 @@
+{
+  "pin_id": "pin-20261102-001",
+  "title": "Tweed Pinafore, White Mock Neck & Black Tights",
+  "garments": [
+    {
+      "piece": "Pinafore dress",
+      "description": "Beige tweed mini pinafore",
+      "product": "Wenrine Overall Mini Dress, Khaki",
+      "link": "https://link.amazon/B0cO3GHA2"
+    },
+    {
+      "piece": "Top",
+      "description": "White ribbed mock-neck long-sleeve top",
+      "product": "Zeagoo Mock Neck Ribbed Long Sleeve Tee, White",
+      "link": "https://link.amazon/B0gNZnMhM"
+    },
+    {
+      "piece": "Tights",
+      "description": "Black opaque tights",
+      "product": "EVERSWE 80 Den Soft Opaque Tights, Black",
+      "link": "https://link.amazon/B0fRrYBHq"
+    }
+  ]
+}
